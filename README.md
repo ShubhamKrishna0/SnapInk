@@ -26,7 +26,7 @@ To run **SnapInk** locally using Flutter Web, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ildysilva/SnapInk.git
+   git clone https://github.com/ShubhamKrishna0/SnapInk.git
    cd SnapInk
    ```
 
