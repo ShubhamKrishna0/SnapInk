@@ -1,9 +1,6 @@
 
 # SnapInk 🎨✨
 
-[![GitHub stars](https://img.shields.io/github/stars/IldySilva/SnapInk.svg)](https://github.com/IldySilva/SnapInk/stargazers)
-[![GitHub license](https://img.shields.io/github/license/IldySilva/SnapInk.svg)](https://github.com/IldySilva/SnapInk/blob/main/LICENSE)
-
 **SnapInk** is a tool that transforms your code into **beautiful, print-ready images**. It allows developers to easily customize, share, and showcase their code with style.
 ![image](https://github.com/user-attachments/assets/d2a2175a-771f-43e1-a06e-44a1edfa4b11)
 
