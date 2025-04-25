@@ -1,0 +1,129 @@
+import 'actionscript.dart';
+import 'applescript.dart';
+import 'arduino.dart';
+import 'autoit.dart';
+import 'bash.dart';
+import 'basic.dart';
+import 'brainfuck.dart';
+import 'clojure.dart';
+import 'cmake.dart';
+import 'coffeescript.dart';
+import 'cpp.dart';
+import 'cs.dart';
+import 'css.dart';
+import 'dart.dart';
+import 'delphi.dart';
+import 'django.dart';
+import 'dsconfig.dart';
+import 'elixir.dart';
+import 'erlang.dart';
+import 'fortran.dart';
+import 'fsharp.dart';
+import 'go.dart';
+import 'gradle.dart';
+import 'groovy.dart';
+import 'haskell.dart';
+import 'java.dart';
+import 'javascript.dart';
+import 'kotlin.dart';
+import 'lisp.dart';
+import 'livecodeserver.dart';
+import 'livescript.dart';
+import 'lua.dart';
+import 'makefile.dart';
+import 'markdown.dart';
+import 'matlab.dart';
+import 'objectivec.dart';
+import 'perl.dart';
+import 'pgsql.dart';
+import 'php.dart';
+import 'plaintext.dart';
+import 'powershell.dart';
+import 'processing.dart';
+import 'python.dart';
+import 'r.dart';
+import 'roboconf.dart';
+import 'ruby.dart';
+import 'rust.dart';
+import 'scala.dart';
+import 'scheme.dart';
+import 'scss.dart';
+import 'shell.dart';
+import 'sql.dart';
+import 'swift.dart';
+import 'typescript.dart';
+import 'vbnet.dart';
+import 'vbscript.dart';
+import 'vhdl.dart';
+import 'vim.dart';
+import 'xml.dart';
+import 'xquery.dart';
+import 'yaml.dart';
+import 'vue.dart';
+import 'graphql.dart';
+
+final languages = {
+  'actionscript': actionscript,
+  'applescript': applescript,
+  'arduino': arduino,
+  'autoit': autoit,
+  'bash': bash,
+  'basic': basic,
+  'brainfuck': brainfuck,
+  'clojure': clojure,
+  'cmake': cmake,
+  'coffeescript': coffeescript,
+  'cpp': cpp,
+  'cs': cs,
+  'css': css,
+  'dart': dart,
+  'delphi': delphi,
+  'django': django,
+  'dsconfig': dsconfig,
+  'elixir': elixir,
+  'erlang': erlang,
+  'fortran': fortran,
+  'fsharp': fsharp,
+  'go': go,
+  'gradle': gradle,
+  'groovy': groovy,
+  'haskell': haskell,
+  'java': java,
+  'javascript': javascript,
+  'kotlin': kotlin,
+  'lisp': lisp,
+  'livecodeserver': livecodeserver,
+  'livescript': livescript,
+  'lua': lua,
+  'makefile': makefile,
+  'markdown': markdown,
+  'matlab': matlab,
+  'objectivec': objectivec,
+  'perl': perl,
+  'pgsql': pgsql,
+  'php': php,
+  'plaintext': plaintext,
+  'powershell': powershell,
+  'processing': processing,
+  'python': python,
+  'r': r,
+  'roboconf': roboconf,
+  'ruby': ruby,
+  'rust': rust,
+  'scala': scala,
+  'scheme': scheme,
+  'scss': scss,
+  'shell': shell,
+  'sql': sql,
+  'swift': swift,
+  'typescript': typescript,
+  'vbnet': vbnet,
+  'vue': vue,
+  'graphql': graphql,
+  'vbscript': vbscript,
+  'vhdl': vhdl,
+  'vim': vim,
+  'xml': xml,
+  'xquery': xquery,
+  'yaml': yaml,
+};

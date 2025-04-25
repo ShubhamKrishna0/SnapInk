@@ -1,0 +1,47 @@
+name: print_script
+description: "A Code printer that transforms your code into beautiful, print-ready images."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  responsive_builder:
+  shadcn_ui: ^0.24.0
+  icons_plus: ^5.0.0
+  cupertino_icons: ^1.0.8
+  path: any
+  google_fonts:
+  desktop_drop: ^0.5.0
+  dropdown_button2: ^2.3.9
+  file_picker: ^8.1.3
+  file_saver: ^0.2.14
+  path_provider:
+  autotrie: ^2.0.0
+  characters: ^1.2.1
+  charcode: ^1.3.1
+  collection: ^1.17.2
+  equatable: ^2.0.5
+  dartx: ^1.2.0
+  meta: ^1.9.1
+  mocktail: ^1.0.1
+  scrollable_positioned_list: ^0.3.5
+  tuple: ^2.0.1
+  url_launcher: ^6.1.8
+  http: any
+
+dependency_overrides:
+  intl: ^0.20.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
