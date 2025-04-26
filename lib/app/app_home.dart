@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             TextButton.icon(
                               label: const Text(
-                                "Made by ildeberto",
+                                "Made by SHUBHAM KRISHNA",
                               ),
                               icon: const Icon(FontAwesome.fire_solid),
                               onPressed: () => launchDevProfile(),
